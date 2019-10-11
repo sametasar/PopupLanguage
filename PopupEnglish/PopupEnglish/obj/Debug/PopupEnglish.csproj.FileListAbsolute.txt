@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\bin\Debug\PopupEnglish.exe.config
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\bin\Debug\PopupEnglish.exe
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\bin\Debug\PopupEnglish.pdb
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish_MarkupCompile.cache
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish_MarkupCompile.lref
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.g.resources
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.exe
+C:\Users\Administrator\Desktop\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.pdb
+Z:\samedigo\PopupEnglish\PopupEnglish\bin\Debug\PopupEnglish.exe.config
+Z:\samedigo\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.exe
+Z:\samedigo\PopupEnglish\PopupEnglish\obj\Debug\PopupEnglish.pdb
